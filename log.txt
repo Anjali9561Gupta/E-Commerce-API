@@ -387,3 +387,17 @@
  Mon Oct 09 2023 08:04:10 GMT+0530 (India Standard Time) - /api/likes - {"id":"64f18dcd49d45aa9558bb73f","type":"Product"}
  Mon Oct 09 2023 08:04:52 GMT+0530 (India Standard Time) - /api/likes - {"id":"64f18dcd49d45aa9558bb73f","type":"Product"}
  Mon Oct 09 2023 08:06:12 GMT+0530 (India Standard Time) - /api/likes - {"id":"6522f48d2c4519c9d41ce903","type":"Category"}
+ Fri Feb 23 2024 16:00:18 GMT+0530 (India Standard Time) - / - {}
+ Fri Feb 23 2024 16:00:18 GMT+0530 (India Standard Time) - /favicon.ico - {}
+ Fri Feb 23 2024 16:10:47 GMT+0530 (India Standard Time) - /api/users/ - {"name":"anjali","email":"anjali@gmail.co","password":"hello","type":"customer"}
+ Fri Feb 23 2024 16:10:57 GMT+0530 (India Standard Time) - /api/ - {"name":"anjali","email":"anjali@gmail.co","password":"hello","type":"customer"}
+ Fri Feb 23 2024 16:11:12 GMT+0530 (India Standard Time) - /api/users/signup - {"name":"anjali","email":"anjali@gmail.co","password":"hello","type":"customer"}
+ Fri Feb 23 2024 16:15:22 GMT+0530 (India Standard Time) - /api/products - {"name":"anjali","email":"anjali@gmail.com","password":"hello","type":"customer"}
+ Fri Feb 23 2024 16:16:40 GMT+0530 (India Standard Time) - /api/users/signup - {"name":"anjali","email":"anjali12@gmail.com","password":"hello1","type":"customer"}
+ Fri Feb 23 2024 16:17:17 GMT+0530 (India Standard Time) - /api/product - {}
+ Fri Feb 23 2024 16:18:05 GMT+0530 (India Standard Time) - /api/products - {"name":"Product 1","desc":"Description for Product 1","price":19.99,"imageUrl":"https://m.media-amazon.com/images/I/51-nXsSRfZL._SX328_BO1,204,203,200_.jpg","category":"Cateogory1"}
+ Fri Feb 23 2024 16:18:26 GMT+0530 (India Standard Time) - /api/products - {"name":"Product 5","desc":"Description for Product 5","price":19.89,"imageUrl":"https://m.media-amazon.com/images/I/51-nXsSRfZL._SX328_BO1,204,203,200_.jpg","category":"Cateogory1"}
+ Fri Feb 23 2024 16:18:39 GMT+0530 (India Standard Time) - /api/products - {}
+ Fri Feb 23 2024 16:18:52 GMT+0530 (India Standard Time) - /api/products - {}
+ Fri Feb 23 2024 16:21:50 GMT+0530 (India Standard Time) - /api/products - {}
+ Fri Feb 23 2024 16:22:46 GMT+0530 (India Standard Time) - /api/products - {}
