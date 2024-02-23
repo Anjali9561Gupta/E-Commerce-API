@@ -7,7 +7,9 @@ User signin, Product Add, Category Add, Edit & Delete, Edit, Delete, Add product
 Setup->>>
 
  $ git clone https://github.com/Anjali9561Gupta/E-Commerce-API.git
+ 
  $ cd nodejs-E-Commerce-API
+ 
  $ npm install
 
 Run The Service->>
